@@ -1,0 +1,33 @@
+{
+  "name": "objset",
+  "version": "1.0.0",
+  "description": "Sets a deep value within object",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcobo/objset.git"
+  },
+  "keywords": [
+    "object",
+    "set",
+    "deep"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielcobo/objset/issues"
+  },
+  "homepage": "https://github.com/danielcobo/objset#readme",
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  },
+  "dependencies": {
+    "tidyval": "^1.0.0"
+  }
+}
