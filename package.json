@@ -28,6 +28,8 @@
     "tidytest": "^1.0.1"
   },
   "dependencies": {
+    "objref": "^1.0.0",
+    "rmtrailing": "^1.0.3",
     "tidyval": "^1.0.0"
   }
 }
