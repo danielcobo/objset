@@ -1,5 +1,5 @@
 {
- "name": "objset",
+ "name": "@danielcobo/objset",
  "version": "1.0.0",
  "description": "Set a deep value within an object",
  "main": "index.js",
