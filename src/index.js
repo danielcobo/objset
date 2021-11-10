@@ -3,6 +3,7 @@ const rmTrailing = require('@danielcobo/rmtrailing');
 
 /**
  * Set a deep value within an object
+ * @public
  * @param {Object} obj - input object to set value on
  * @param {string} path - path of value
  * @param {string} separator - path separator
