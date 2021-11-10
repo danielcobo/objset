@@ -62,9 +62,9 @@ Also, feel free to download the file if you prefer not to use [jsdelivr](https:/
 ### Example use
 
 ```js
-objSet({}, 'a', '/', 1);          //{a:1}
-objSet({}, 'a/b', '/', 1);        //{a:{b:1}}
-objSet({a:{b:1}}, 'a/c', '/', 2); //{a:{b:1, c:2}}
+objset({}, 'a', '/', 1);          //{a:1}
+objset({}, 'a/b', '/', 1);        //{a:{b:1}}
+objset({a:{b:1}}, 'a/c', '/', 2); //{a:{b:1, c:2}}
 ```
 
 For details see documentation below.
