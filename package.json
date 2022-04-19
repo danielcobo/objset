@@ -1,6 +1,6 @@
 {
  "name": "@danielcobo/objset",
- "version": "1.0.4",
+ "version": "1.0.5",
  "description": "Set a deep value within an object",
  "main": "src/index.js",
  "directories": {
